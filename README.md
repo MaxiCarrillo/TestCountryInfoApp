@@ -41,3 +41,8 @@ Ensure you have the following installed on your machine:
     ```bash
     npm run dev
     ```
+
+## Accessing the Application
+
+- To access the frontend, open your browser and navigate to `http://localhost:5173`.
+- To access the backend, you can use tools like Postman or your browser to navigate to `http://localhost:3000`.
